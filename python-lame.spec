@@ -10,6 +10,7 @@ Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/lame/py-lame-%{version}.tar.g
 URL:		http://lame.sourceforge.net/
 BuildRequires:	lame-libs-devel
 BuildRequires:	python-devel
+BuildRequires:	rpm-pythonprov
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
