@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.python
 Summary:	Python bindings for libmp3lame
 Summary(pl):	Dowi±zania Pythona dla libmp3lame
 Name:		python-lame
