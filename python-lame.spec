@@ -6,7 +6,7 @@ Version:	0.1
 Release:	1
 License:	BSD-like
 Group:		Libraries/Python
-Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/lame/py-lame-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/lame/py-lame-%{version}.tar.gz
 URL:		http://lame.sourceforge.net/
 BuildRequires:	lame-libs-devel
 BuildRequires:	python-devel
