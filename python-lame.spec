@@ -12,6 +12,7 @@ URL:		http://lame.sourceforge.net/
 BuildRequires:	lame-libs-devel
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
+%pyrequires_eq	python-libs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
