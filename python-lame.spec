@@ -1,5 +1,5 @@
 Summary:	Python bindings for libmp3lame
-Summary(pl):	Dowi±zania Pythona dla libmp3lame
+Summary(pl.UTF-8):   DowiÄ…zania Pythona dla libmp3lame
 Name:		python-lame
 Version:	0.1
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Python bindings for libmp3lame.
 
-%description -l pl
-Dowi±zania Pythona dla libmp3lame.
+%description -l pl.UTF-8
+DowiÄ…zania Pythona dla libmp3lame.
 
 %prep
 %setup -q -n py-lame-%{version}
