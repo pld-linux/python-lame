@@ -1,5 +1,5 @@
 Summary:	Python bindings for libmp3lame
-Summary(pl.UTF-8):   Dowiązania Pythona dla libmp3lame
+Summary(pl.UTF-8):	Dowiązania Pythona dla libmp3lame
 Name:		python-lame
 Version:	0.1
 Release:	1
